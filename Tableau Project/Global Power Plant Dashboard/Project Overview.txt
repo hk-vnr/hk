@@ -1,0 +1,11 @@
+The Global Power Plant datset was taken from Kaggle data science community.The main objective of the project is to create dashboard of 
+global power generation from various fuel source in power plants across the globe.
+
+The data obtained is for the year 2020. Total installed capacity and generated power from all the plants are the major KPIs
+
+I have provided the csv file of the dataset.
+
+Using Tableau, data Filtering, data cleaning, table calculations, and finally creation of interactive dashboard is done.
+
+Finally a broad insight of performance of power plants and utilization factor is obtained.
+
