@@ -1,0 +1,3 @@
+This Flight price prediction dataset was taken from kaggle community.The dataset contains ticket price between 7 major cities in India
+Linear regression model is used to predict the price.
+I have attached both the Python and csv file.
